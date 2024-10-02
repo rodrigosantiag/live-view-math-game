@@ -1,5 +1,7 @@
 # LiveViewMathGame
 
+Simple math game to practice Phoenix LiveView
+
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
